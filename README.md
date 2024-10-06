@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analysis projects, building dashboards, and open-source data initiatives.
 - 📫 How to reach me ksheersagarpriyanka.9@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love discovering patterns in data and I’m always on the lookout for new datasets to explore!
+- ⚡ Fun fact: I love discovering patterns in data and I’m always on the lookout for new datasets to explore!!
 
 <!---
 Priyanka-ksheersagar/Priyanka-ksheersagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
